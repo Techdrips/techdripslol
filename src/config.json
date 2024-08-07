@@ -1,0 +1,6 @@
+{
+  "title": "HU LTS",
+  "port": "8080",
+  "minifyScripts": true,
+  "production": false
+}
